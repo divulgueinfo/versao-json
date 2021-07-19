@@ -1,0 +1,19 @@
+{
+    "pagina": [  
+    {
+        "_id" : "1",
+        "title": "Python com Arduino (Workshop).",
+        "text" : "Evento feito com parceria das PyladiesSP, veja como podemos montar a integramação com Python e Arduino",
+        "link" : "https://pythoncomarduino.tipsbook.info",
+        "materia" : "Evento feito com parceria das PyladiesSP, veja como podemos montar a integramação com Python e Arduino"
+    },
+    {
+        "_id" : "2",
+        "title": "Linux Básico para Dev (Workshop).",
+        "text" : "Por exemplo, átomos são feitos de partículas menores conhecidas como elétrons, prótons e nêutrons. Os prótons e nêutrons, por sua vez, são compostos de partículas mais elementares conhecidas como quarks. Um dos mais notáveis da física de partículas é encontrar as partículas mais elementares – ou as codenominadas partículas fundamentais – as quais constroem todas as outras partículas encontradas na natureza, e não são elas mesmas compostas de partículas menores. Historicamente, os hádrons (mésons e bárions, tais como o próton e o nêutron) e até mesmo o átomo inteiro já foram considerados como partículas elementares.",
+        "link" : "https://pythoncomarduino.tipsbook.info",
+        "materia" : "evento feito com parceria das PyladiesSP. contem exercicios, explicação do básico do Linux"
+    }
+    ]
+}
+
